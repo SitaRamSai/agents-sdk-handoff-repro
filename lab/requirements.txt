@@ -1,0 +1,7 @@
+# Lab kit (MCP test server, recorder signature checks). Python 3.11+.
+# Keycloak scripts and the bench need only the standard library.
+mcp>=2.3,<3
+PyJWT[crypto]>=2.10
+uvicorn>=0.30
+# Teardown 1 only
+openai-agents==0.24.0

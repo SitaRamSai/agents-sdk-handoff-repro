@@ -1,0 +1,3702 @@
+[
+ {
+  "run_id": "s1-a-bc82a7",
+  "hop": "mcp-server",
+  "token_hash": "9a85f94ba156",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349338,
+   "exp": 1794349638
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-076857",
+  "hop": "mcp-server",
+  "token_hash": "fcb84464325b",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-076857",
+  "hop": "mcp-server",
+  "token_hash": "fcb84464325b",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-7978aa",
+  "hop": "mcp-server",
+  "token_hash": "9d363c2010c4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-7978aa",
+  "hop": "mcp-server",
+  "token_hash": "9d363c2010c4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-a-969000",
+  "hop": "mcp-server",
+  "token_hash": "d9ec4900204d",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349347,
+   "exp": 1794349647
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-6c88aa",
+  "hop": "mcp-server",
+  "token_hash": "45b7070f58cf",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-6c88aa",
+  "hop": "mcp-server",
+  "token_hash": "45b7070f58cf",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-291a85",
+  "hop": "mcp-server",
+  "token_hash": "db725be1d1dc",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-291a85",
+  "hop": "mcp-server",
+  "token_hash": "db725be1d1dc",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-6530df",
+  "hop": "mcp-server",
+  "token_hash": "be4f9b5ef4e4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349349,
+   "exp": 1794349649
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-6530df",
+  "hop": "mcp-server",
+  "token_hash": "be4f9b5ef4e4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349349,
+   "exp": 1794349649
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-1794349350",
+  "hop": "mcp-server",
+  "token_hash": "17d8650d0a34",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349350,
+   "exp": 1794349650
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-1794349350",
+  "hop": "mcp-server",
+  "token_hash": "17d8650d0a34",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349350,
+   "exp": 1794349650
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-67474a",
+  "hop": "mcp-server",
+  "token_hash": "cb56586f93c5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349380,
+   "exp": 1794349680
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-67474a",
+  "hop": "mcp-server",
+  "token_hash": "cb56586f93c5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349380,
+   "exp": 1794349680
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-84409f",
+  "hop": "mcp-server",
+  "token_hash": "35b6c9b1ce9c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349381,
+   "exp": 1794349681,
+   "sid": "Te1Opf_-mgsOesIxgjP_wBsu"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-84409f",
+  "hop": "mcp-server",
+  "token_hash": "35b6c9b1ce9c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349381,
+   "exp": 1794349681,
+   "sid": "Te1Opf_-mgsOesIxgjP_wBsu"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-f78859",
+  "hop": "mcp-server",
+  "token_hash": "484489723be2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349381,
+   "exp": 1794349681,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "J_1diwPBta6NoJkH69Q10O3n"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-f78859",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-f78859",
+  "hop": "mcp-server",
+  "token_hash": "6dde318f9df1",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349382,
+   "exp": 1794349681,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-f78859",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s1-a-3d0b52",
+  "hop": "mcp-server",
+  "token_hash": "b2fae33b284a",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349400,
+   "exp": 1794349700
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-d2cca4",
+  "hop": "mcp-server",
+  "token_hash": "cf970404c836",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-d2cca4",
+  "hop": "mcp-server",
+  "token_hash": "cf970404c836",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-bcbfcf",
+  "hop": "mcp-server",
+  "token_hash": "acb0955eb405",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-bcbfcf",
+  "hop": "mcp-server",
+  "token_hash": "acb0955eb405",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-9790e1",
+  "hop": "mcp-server",
+  "token_hash": "1cb7f8de49b2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349402,
+   "exp": 1794349702
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-9790e1",
+  "hop": "mcp-server",
+  "token_hash": "1cb7f8de49b2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349402,
+   "exp": 1794349702
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-a-c3b744",
+  "hop": "mcp-server",
+  "token_hash": "bf68783771c4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349403,
+   "exp": 1794349703
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-a91bf8",
+  "hop": "mcp-server",
+  "token_hash": "00d458cbd5c6",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-a91bf8",
+  "hop": "mcp-server",
+  "token_hash": "00d458cbd5c6",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-6d4605",
+  "hop": "mcp-server",
+  "token_hash": "6fff1b901bf1",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-6d4605",
+  "hop": "mcp-server",
+  "token_hash": "6fff1b901bf1",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-c472f3",
+  "hop": "mcp-server",
+  "token_hash": "611476714bb5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349405,
+   "exp": 1794349705
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-c472f3",
+  "hop": "mcp-server",
+  "token_hash": "611476714bb5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349405,
+   "exp": 1794349705
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-1794349406",
+  "hop": "mcp-server",
+  "token_hash": "09db53516d19",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349406,
+   "exp": 1794349706
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-1794349406",
+  "hop": "mcp-server",
+  "token_hash": "09db53516d19",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349406,
+   "exp": 1794349706
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-a-meta-647dcc",
+  "hop": "mcp-server",
+  "token_hash": "4f40555fd15c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349410,
+   "exp": 1794349710
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-d2b7b5",
+  "hop": "mcp-server",
+  "token_hash": "e69233a54e61",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349410,
+   "exp": 1794349710
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-d2b7b5",
+  "hop": "mcp-server",
+  "token_hash": "e69233a54e61",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349410,
+   "exp": 1794349710
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-4f03b6",
+  "hop": "mcp-server",
+  "token_hash": "713d3e5353e7",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-4f03b6",
+  "hop": "mcp-server",
+  "token_hash": "713d3e5353e7",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-1542aa",
+  "hop": "mcp-server",
+  "token_hash": "d5f9be4e45ae",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-1542aa",
+  "hop": "mcp-server",
+  "token_hash": "d5f9be4e45ae",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-a-meta-f19415",
+  "hop": "mcp-server",
+  "token_hash": "658de657730e",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349713
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-1b740b",
+  "hop": "mcp-server",
+  "token_hash": "475d245d4a48",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349713
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-1b740b",
+  "hop": "mcp-server",
+  "token_hash": "475d245d4a48",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349713
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-351617",
+  "hop": "mcp-server",
+  "token_hash": "2861c7a75abb",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-351617",
+  "hop": "mcp-server",
+  "token_hash": "2861c7a75abb",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-61c2d2",
+  "hop": "mcp-server",
+  "token_hash": "9f86fb2daf88",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-61c2d2",
+  "hop": "mcp-server",
+  "token_hash": "9f86fb2daf88",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-a-meta-86d418",
+  "hop": "mcp-server",
+  "token_hash": "586897c4939e",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-469d99",
+  "hop": "mcp-server",
+  "token_hash": "c7d95d7a776d",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-a-meta-469d99",
+  "hop": "mcp-server",
+  "token_hash": "c7d95d7a776d",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-d9d697",
+  "hop": "mcp-server",
+  "token_hash": "bd2f335fe7f2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-a-meta-d9d697",
+  "hop": "mcp-server",
+  "token_hash": "bd2f335fe7f2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-31371f",
+  "hop": "mcp-server",
+  "token_hash": "9cae36e59b8c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-a-meta-31371f",
+  "hop": "mcp-server",
+  "token_hash": "9cae36e59b8c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-meta-1794349418",
+  "hop": "mcp-server",
+  "token_hash": "a9e1f06eeaf8",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349419,
+   "exp": 1794349719
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-a-meta-1794349418",
+  "hop": "mcp-server",
+  "token_hash": "a9e1f06eeaf8",
+  "decision": "accepted",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "profile email",
+   "iat": 1794349419,
+   "exp": 1794349719
+  },
+  "mcp_meta": {
+   "user_sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "server": "lab-mcp",
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-b-622492",
+  "hop": "mcp-server",
+  "token_hash": "fe78576c00cd",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349420,
+   "exp": 1794349720,
+   "sid": "f97miJpoen9aH8Goa60-sjZ5"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-816a98",
+  "hop": "mcp-server",
+  "token_hash": "c67384eb1902",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349420,
+   "exp": 1794349720,
+   "sid": "OytkDZWSfLb12n9gk2aejZ1Q"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-816a98",
+  "hop": "mcp-server",
+  "token_hash": "c67384eb1902",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349420,
+   "exp": 1794349720,
+   "sid": "OytkDZWSfLb12n9gk2aejZ1Q"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-463c7c",
+  "hop": "mcp-server",
+  "token_hash": "955349c7840e",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "vt6Pop4b_spE8kDN0nWlevW0"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-463c7c",
+  "hop": "mcp-server",
+  "token_hash": "955349c7840e",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "vt6Pop4b_spE8kDN0nWlevW0"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-1a7896",
+  "hop": "mcp-server",
+  "token_hash": "3c9c56841443",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "hu6FeLvjbOQG5dgBKgK20iMz"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-1a7896",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s4-b-1a7896",
+  "hop": "mcp-server",
+  "token_hash": "3c9c56841443",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "hu6FeLvjbOQG5dgBKgK20iMz"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-1a7896",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s1-b-28c5fc",
+  "hop": "mcp-server",
+  "token_hash": "e8e166a2f03d",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "YaEBrpmVcke0Hos9hielEJ_R"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-e703ec",
+  "hop": "mcp-server",
+  "token_hash": "38aabed687a5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "L1YzqRer19xNGaEbahY9B58D"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-e703ec",
+  "hop": "mcp-server",
+  "token_hash": "38aabed687a5",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "L1YzqRer19xNGaEbahY9B58D"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-1ccc1f",
+  "hop": "mcp-server",
+  "token_hash": "833fce791512",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "feAjUpbf0R_LIBVkuMT-qS3i"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-1ccc1f",
+  "hop": "mcp-server",
+  "token_hash": "833fce791512",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "feAjUpbf0R_LIBVkuMT-qS3i"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-0befd2",
+  "hop": "mcp-server",
+  "token_hash": "988d3cae6ed2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "Jege2PKbBwBPKFRuHKAg9ypd"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-0befd2",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s4-b-0befd2",
+  "hop": "mcp-server",
+  "token_hash": "988d3cae6ed2",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "Jege2PKbBwBPKFRuHKAg9ypd"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-0befd2",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s1-b-8d608b",
+  "hop": "mcp-server",
+  "token_hash": "e322a25d1d01",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349425,
+   "exp": 1794349725,
+   "sid": "3tzojyQO1i0U53O7dua18l_f"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-ec7831",
+  "hop": "mcp-server",
+  "token_hash": "f6eff17eb5e1",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "lVs45p2-De-WYIznsfOrLlf6"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-b-ec7831",
+  "hop": "mcp-server",
+  "token_hash": "f6eff17eb5e1",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "lVs45p2-De-WYIznsfOrLlf6"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-9f6de1",
+  "hop": "mcp-server",
+  "token_hash": "87dbe24224f4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "rwNkOAh_nqUrC1rrhWi-j-Jc"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-b-9f6de1",
+  "hop": "mcp-server",
+  "token_hash": "87dbe24224f4",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "rwNkOAh_nqUrC1rrhWi-j-Jc"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-36f5d2",
+  "hop": "mcp-server",
+  "token_hash": "e5302507b078",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349427,
+   "exp": 1794349727,
+   "sid": "V7Ol2e2A6UrH9fzo2OytwRqL"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-36f5d2",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s4-b-36f5d2",
+  "hop": "mcp-server",
+  "token_hash": "e5302507b078",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349427,
+   "exp": 1794349727,
+   "sid": "V7Ol2e2A6UrH9fzo2OytwRqL"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s4-b-36f5d2",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "n3-b-1794349428",
+  "hop": "mcp-server",
+  "token_hash": "58d8b65238b7",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349428,
+   "exp": 1794349728,
+   "sid": "0a9kJu_KWopOzUuTnXt3-HOy"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-b-1794349428",
+  "hop": "mcp-server",
+  "token_hash": "58d8b65238b7",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "mcp-server",
+    "sub-agent"
+   ],
+   "scope": "openid files:write files:read profile email",
+   "iat": 1794349428,
+   "exp": 1794349728,
+   "sid": "0a9kJu_KWopOzUuTnXt3-HOy"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-b-1794349428",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Invalid token\"}"
+ },
+ {
+  "run_id": "s1-c-cd8f46",
+  "hop": "mcp-server",
+  "token_hash": "0c8931ce443f",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349430,
+   "exp": 1794349730,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "tn7laY6i3mLKhSWKrQF3uM88"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-c-cd8f46",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-a85f17",
+  "hop": "mcp-server",
+  "token_hash": "f5877801a13f",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349430,
+   "exp": 1794349730,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "Hs9hr5DFIqZztFhRsH9hQGy5"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-a85f17",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-a85f17",
+  "hop": "mcp-server",
+  "token_hash": "6950cce398ca",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349430,
+   "exp": 1794349730,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-a85f17",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-b0a58d",
+  "hop": "mcp-server",
+  "token_hash": "74c26b69ec70",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349430,
+   "exp": 1794349730,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "1tKNcC7mcnDDye65ahxeag1U"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-b0a58d",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-b0a58d",
+  "hop": "mcp-server",
+  "token_hash": "879d788feb61",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349431,
+   "exp": 1794349730,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-b0a58d",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s1-c-d4c104",
+  "hop": "mcp-server",
+  "token_hash": "29e154ed12aa",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349432,
+   "exp": 1794349732,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "_DROmkaYpZEtPITLNbD2FIAK"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-c-d4c104",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-004cff",
+  "hop": "mcp-server",
+  "token_hash": "b3a0ac8f217f",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349432,
+   "exp": 1794349732,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "b8g2Ex6o_KwH540QDaoLLLh_"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-004cff",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-004cff",
+  "hop": "mcp-server",
+  "token_hash": "444497f43b6c",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349433,
+   "exp": 1794349732,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-004cff",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-ef6416",
+  "hop": "mcp-server",
+  "token_hash": "16173f08ea5e",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349433,
+   "exp": 1794349733,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "TfDthYplbun4OeTKIQsiMAxq"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-ef6416",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-ef6416",
+  "hop": "mcp-server",
+  "token_hash": "2db246b57905",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349433,
+   "exp": 1794349733,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-ef6416",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s1-c-6fb2bd",
+  "hop": "mcp-server",
+  "token_hash": "ea746d356986",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349435,
+   "exp": 1794349735,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "S4MQxDF_PJa3ORfEsFS69FXQ"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s1-c-6fb2bd",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-eb4c39",
+  "hop": "mcp-server",
+  "token_hash": "6742d37bc8ef",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349435,
+   "exp": 1794349735,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "-xOvRq_sNsnE2rIXijEnvC_k"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-eb4c39",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s2-c-eb4c39",
+  "hop": "mcp-server",
+  "token_hash": "3ce7b1c38584",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349435,
+   "exp": 1794349735,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s2-c-eb4c39",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-a61070",
+  "hop": "mcp-server",
+  "token_hash": "423c955f310d",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349435,
+   "exp": 1794349735,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "W11szzVqjaJ_NRa1uLT1-7Kt"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-a61070",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s3-c-a61070",
+  "hop": "mcp-server",
+  "token_hash": "bfb6732c9bfe",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "sub-agent",
+   "aud": "mcp-server",
+   "scope": "files:read profile email",
+   "iat": 1794349436,
+   "exp": 1794349735,
+   "act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   }
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "s3-c-a61070",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "n3-c-1794349437",
+  "hop": "mcp-server",
+  "token_hash": "35eacf70123b",
+  "decision": "accepted",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "agent-app",
+   "aud": [
+    "sub-agent",
+    "mcp-server"
+   ],
+   "scope": "openid files:write files:read delegation:client:sub-agent profile email",
+   "iat": 1794349437,
+   "exp": 1794349737,
+   "may_act": {
+    "sub": "aaec1cd6-173d-472d-9c84-128e617130a2",
+    "client_id": "sub-agent"
+   },
+   "sid": "dQKoLs7clswcs2G01phSxba9"
+  },
+  "mcp_meta": {
+   "io.modelcontextprotocol/protocolVersion": "2026-07-28",
+   "io.modelcontextprotocol/clientInfo": {
+    "name": "mcp",
+    "version": "0.1.0"
+   },
+   "io.modelcontextprotocol/clientCapabilities": {}
+  }
+ },
+ {
+  "run_id": "n3-c-1794349437",
+  "hop": "mcp-server",
+  "event": "downstream_token_failed",
+  "error": "{\"error\":\"invalid_request\",\"error_description\":\"Subject token with a delegation claim is not allowed for standard token exchange\"}"
+ },
+ {
+  "run_id": "s1-a-bc82a7",
+  "hop": "canary-api",
+  "token_hash": "e7f4145fd33f",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349638
+  }
+ },
+ {
+  "run_id": "s2-a-076857",
+  "hop": "canary-api",
+  "token_hash": "15835f14c5bd",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  }
+ },
+ {
+  "run_id": "s2-a-076857",
+  "hop": "canary-api",
+  "token_hash": "31df77126598",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  }
+ },
+ {
+  "run_id": "s3-a-7978aa",
+  "hop": "canary-api",
+  "token_hash": "8a0dc4a313af",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349339,
+   "exp": 1794349639
+  }
+ },
+ {
+  "run_id": "s3-a-7978aa",
+  "hop": "canary-api",
+  "token_hash": "489fe7201f20",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349340,
+   "exp": 1794349639
+  }
+ },
+ {
+  "run_id": "s1-a-969000",
+  "hop": "canary-api",
+  "token_hash": "98c7d59989c9",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349647
+  }
+ },
+ {
+  "run_id": "s2-a-6c88aa",
+  "hop": "canary-api",
+  "token_hash": "62785b2506d5",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  }
+ },
+ {
+  "run_id": "s2-a-6c88aa",
+  "hop": "canary-api",
+  "token_hash": "169f2dbc58c4",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  }
+ },
+ {
+  "run_id": "s3-a-291a85",
+  "hop": "canary-api",
+  "token_hash": "6741b54b4391",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349348,
+   "exp": 1794349648
+  }
+ },
+ {
+  "run_id": "s3-a-291a85",
+  "hop": "canary-api",
+  "token_hash": "02d0ca0d1c45",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349349,
+   "exp": 1794349648
+  }
+ },
+ {
+  "run_id": "s4-a-6530df",
+  "hop": "canary-api",
+  "token_hash": "63f326927b34",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349350,
+   "exp": 1794349649
+  }
+ },
+ {
+  "run_id": "s4-a-6530df",
+  "hop": "canary-api",
+  "token_hash": "faa91e062396",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349350,
+   "exp": 1794349649
+  }
+ },
+ {
+  "run_id": "n3-a-1794349350",
+  "hop": "canary-api",
+  "token_hash": "2ae32b674c7e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349351,
+   "exp": 1794349650
+  }
+ },
+ {
+  "run_id": "n3-a-1794349350",
+  "hop": "canary-api",
+  "token_hash": "f0c8ecfdcb62",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349352,
+   "exp": 1794349650
+  }
+ },
+ {
+  "run_id": "s2-a-67474a",
+  "hop": "canary-api",
+  "token_hash": "c6744accff8f",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349380,
+   "exp": 1794349680
+  }
+ },
+ {
+  "run_id": "s2-a-67474a",
+  "hop": "canary-api",
+  "token_hash": "02c78fbd9ced",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349381,
+   "exp": 1794349680
+  }
+ },
+ {
+  "run_id": "s2-b-84409f",
+  "hop": "canary-api",
+  "token_hash": "ecfa5aaab958",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349381,
+   "exp": 1794349681,
+   "sid": "Te1Opf_-mgsOesIxgjP_wBsu"
+  }
+ },
+ {
+  "run_id": "s2-b-84409f",
+  "hop": "canary-api",
+  "token_hash": "33466299c976",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349381,
+   "exp": 1794349681,
+   "sid": "Te1Opf_-mgsOesIxgjP_wBsu"
+  }
+ },
+ {
+  "run_id": "s1-a-3d0b52",
+  "hop": "canary-api",
+  "token_hash": "3ce2f396123e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349700
+  }
+ },
+ {
+  "run_id": "s2-a-d2cca4",
+  "hop": "canary-api",
+  "token_hash": "1c4efad8326e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  }
+ },
+ {
+  "run_id": "s2-a-d2cca4",
+  "hop": "canary-api",
+  "token_hash": "db6af888196a",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349401,
+   "exp": 1794349701
+  }
+ },
+ {
+  "run_id": "s3-a-bcbfcf",
+  "hop": "canary-api",
+  "token_hash": "9bc305208ad2",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349402,
+   "exp": 1794349701
+  }
+ },
+ {
+  "run_id": "s3-a-bcbfcf",
+  "hop": "canary-api",
+  "token_hash": "09db6f764ef7",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349402,
+   "exp": 1794349701
+  }
+ },
+ {
+  "run_id": "s4-a-9790e1",
+  "hop": "canary-api",
+  "token_hash": "688320e981e4",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349403,
+   "exp": 1794349702
+  }
+ },
+ {
+  "run_id": "s4-a-9790e1",
+  "hop": "canary-api",
+  "token_hash": "8972f1d8c0ba",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349403,
+   "exp": 1794349702
+  }
+ },
+ {
+  "run_id": "s1-a-c3b744",
+  "hop": "canary-api",
+  "token_hash": "ad86fd0973bb",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349703
+  }
+ },
+ {
+  "run_id": "s2-a-a91bf8",
+  "hop": "canary-api",
+  "token_hash": "57bf88c2cb9e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  }
+ },
+ {
+  "run_id": "s2-a-a91bf8",
+  "hop": "canary-api",
+  "token_hash": "48e9efd614f0",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  }
+ },
+ {
+  "run_id": "s3-a-6d4605",
+  "hop": "canary-api",
+  "token_hash": "cf03088c802e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349404,
+   "exp": 1794349704
+  }
+ },
+ {
+  "run_id": "s3-a-6d4605",
+  "hop": "canary-api",
+  "token_hash": "0bf252b56847",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349405,
+   "exp": 1794349704
+  }
+ },
+ {
+  "run_id": "s4-a-c472f3",
+  "hop": "canary-api",
+  "token_hash": "e7b12a25ba2d",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349406,
+   "exp": 1794349705
+  }
+ },
+ {
+  "run_id": "s4-a-c472f3",
+  "hop": "canary-api",
+  "token_hash": "fc9d6a225f52",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349406,
+   "exp": 1794349705
+  }
+ },
+ {
+  "run_id": "n3-a-1794349406",
+  "hop": "canary-api",
+  "token_hash": "cec0cfa9232d",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349406,
+   "exp": 1794349706
+  }
+ },
+ {
+  "run_id": "n3-a-1794349406",
+  "hop": "canary-api",
+  "token_hash": "664dd01e7f36",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349407,
+   "exp": 1794349706
+  }
+ },
+ {
+  "run_id": "s1-a-meta-647dcc",
+  "hop": "canary-api",
+  "token_hash": "f0fc5701a9da",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349410,
+   "exp": 1794349710
+  }
+ },
+ {
+  "run_id": "s2-a-meta-d2b7b5",
+  "hop": "canary-api",
+  "token_hash": "07c421cfb4a1",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349710
+  }
+ },
+ {
+  "run_id": "s2-a-meta-d2b7b5",
+  "hop": "canary-api",
+  "token_hash": "900561843211",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349710
+  }
+ },
+ {
+  "run_id": "s3-a-meta-4f03b6",
+  "hop": "canary-api",
+  "token_hash": "dc4a26aaf83a",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  }
+ },
+ {
+  "run_id": "s3-a-meta-4f03b6",
+  "hop": "canary-api",
+  "token_hash": "c5fe8fec8d59",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349411,
+   "exp": 1794349711
+  }
+ },
+ {
+  "run_id": "s4-a-meta-1542aa",
+  "hop": "canary-api",
+  "token_hash": "53e975479f92",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349711
+  }
+ },
+ {
+  "run_id": "s4-a-meta-1542aa",
+  "hop": "canary-api",
+  "token_hash": "addaae4feeb9",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349711
+  }
+ },
+ {
+  "run_id": "s1-a-meta-f19415",
+  "hop": "canary-api",
+  "token_hash": "64f7860e4e58",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349713
+  }
+ },
+ {
+  "run_id": "s2-a-meta-1b740b",
+  "hop": "canary-api",
+  "token_hash": "ebe57a2ca894",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349413,
+   "exp": 1794349713
+  }
+ },
+ {
+  "run_id": "s2-a-meta-1b740b",
+  "hop": "canary-api",
+  "token_hash": "092e163d3ac5",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349713
+  }
+ },
+ {
+  "run_id": "s3-a-meta-351617",
+  "hop": "canary-api",
+  "token_hash": "738ea1031243",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  }
+ },
+ {
+  "run_id": "s3-a-meta-351617",
+  "hop": "canary-api",
+  "token_hash": "146839ce4167",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349414,
+   "exp": 1794349714
+  }
+ },
+ {
+  "run_id": "s4-a-meta-61c2d2",
+  "hop": "canary-api",
+  "token_hash": "a9c7ad1cac41",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349415,
+   "exp": 1794349714
+  }
+ },
+ {
+  "run_id": "s4-a-meta-61c2d2",
+  "hop": "canary-api",
+  "token_hash": "2f5e4b98502e",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349714
+  }
+ },
+ {
+  "run_id": "s1-a-meta-86d418",
+  "hop": "canary-api",
+  "token_hash": "cb7e9fbc897c",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  }
+ },
+ {
+  "run_id": "s2-a-meta-469d99",
+  "hop": "canary-api",
+  "token_hash": "6145326abfb7",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  }
+ },
+ {
+  "run_id": "s2-a-meta-469d99",
+  "hop": "canary-api",
+  "token_hash": "e74661db2c75",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349416,
+   "exp": 1794349716
+  }
+ },
+ {
+  "run_id": "s3-a-meta-d9d697",
+  "hop": "canary-api",
+  "token_hash": "347d6cf5b6bb",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  }
+ },
+ {
+  "run_id": "s3-a-meta-d9d697",
+  "hop": "canary-api",
+  "token_hash": "ece6421f54ae",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349417,
+   "exp": 1794349717
+  }
+ },
+ {
+  "run_id": "s4-a-meta-31371f",
+  "hop": "canary-api",
+  "token_hash": "53dd6b048e2b",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349418,
+   "exp": 1794349717
+  }
+ },
+ {
+  "run_id": "s4-a-meta-31371f",
+  "hop": "canary-api",
+  "token_hash": "7dad157f43d3",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349418,
+   "exp": 1794349717
+  }
+ },
+ {
+  "run_id": "n3-a-meta-1794349418",
+  "hop": "canary-api",
+  "token_hash": "b258eeb9ea2a",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349419,
+   "exp": 1794349719
+  }
+ },
+ {
+  "run_id": "n3-a-meta-1794349418",
+  "hop": "canary-api",
+  "token_hash": "531aa663fd70",
+  "claims": {
+   "sub": "412d2b49-16ff-43c3-90f1-6dd048de2808",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "profile email",
+   "iat": 1794349420,
+   "exp": 1794349719
+  }
+ },
+ {
+  "run_id": "s1-b-622492",
+  "hop": "canary-api",
+  "token_hash": "46be941dd8ee",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349420,
+   "exp": 1794349720,
+   "sid": "f97miJpoen9aH8Goa60-sjZ5"
+  }
+ },
+ {
+  "run_id": "s2-b-816a98",
+  "hop": "canary-api",
+  "token_hash": "df424cc56713",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349720,
+   "sid": "OytkDZWSfLb12n9gk2aejZ1Q"
+  }
+ },
+ {
+  "run_id": "s2-b-816a98",
+  "hop": "canary-api",
+  "token_hash": "e65c634eb546",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349720,
+   "sid": "OytkDZWSfLb12n9gk2aejZ1Q"
+  }
+ },
+ {
+  "run_id": "s3-b-463c7c",
+  "hop": "canary-api",
+  "token_hash": "1c92776b8844",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "vt6Pop4b_spE8kDN0nWlevW0"
+  }
+ },
+ {
+  "run_id": "s3-b-463c7c",
+  "hop": "canary-api",
+  "token_hash": "768df1dc0934",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349421,
+   "exp": 1794349721,
+   "sid": "vt6Pop4b_spE8kDN0nWlevW0"
+  }
+ },
+ {
+  "run_id": "s1-b-28c5fc",
+  "hop": "canary-api",
+  "token_hash": "f97f40d4ebbd",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "YaEBrpmVcke0Hos9hielEJ_R"
+  }
+ },
+ {
+  "run_id": "s2-b-e703ec",
+  "hop": "canary-api",
+  "token_hash": "cebaa557c3a9",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "L1YzqRer19xNGaEbahY9B58D"
+  }
+ },
+ {
+  "run_id": "s2-b-e703ec",
+  "hop": "canary-api",
+  "token_hash": "4a9866bea935",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349423,
+   "exp": 1794349723,
+   "sid": "L1YzqRer19xNGaEbahY9B58D"
+  }
+ },
+ {
+  "run_id": "s3-b-1ccc1f",
+  "hop": "canary-api",
+  "token_hash": "b3a5e51d3656",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "feAjUpbf0R_LIBVkuMT-qS3i"
+  }
+ },
+ {
+  "run_id": "s3-b-1ccc1f",
+  "hop": "canary-api",
+  "token_hash": "d027d79b66e1",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349424,
+   "exp": 1794349724,
+   "sid": "feAjUpbf0R_LIBVkuMT-qS3i"
+  }
+ },
+ {
+  "run_id": "s1-b-8d608b",
+  "hop": "canary-api",
+  "token_hash": "8e05b90dcf00",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349725,
+   "sid": "3tzojyQO1i0U53O7dua18l_f"
+  }
+ },
+ {
+  "run_id": "s2-b-ec7831",
+  "hop": "canary-api",
+  "token_hash": "fab9073bc145",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "lVs45p2-De-WYIznsfOrLlf6"
+  }
+ },
+ {
+  "run_id": "s2-b-ec7831",
+  "hop": "canary-api",
+  "token_hash": "d7987c59139b",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "lVs45p2-De-WYIznsfOrLlf6"
+  }
+ },
+ {
+  "run_id": "s3-b-9f6de1",
+  "hop": "canary-api",
+  "token_hash": "f242bb7bd7ae",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349426,
+   "exp": 1794349726,
+   "sid": "rwNkOAh_nqUrC1rrhWi-j-Jc"
+  }
+ },
+ {
+  "run_id": "s3-b-9f6de1",
+  "hop": "canary-api",
+  "token_hash": "baedfb1144a1",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349427,
+   "exp": 1794349726,
+   "sid": "rwNkOAh_nqUrC1rrhWi-j-Jc"
+  }
+ },
+ {
+  "run_id": "n3-b-1794349428",
+  "hop": "canary-api",
+  "token_hash": "2a14dcfbe0a6",
+  "claims": {
+   "sub": "048f81ae-6be3-4a37-ada3-72293ea1c6f5",
+   "azp": "mcp-server",
+   "aud": "canary-api",
+   "scope": "files:read profile email",
+   "iat": 1794349428,
+   "exp": 1794349728,
+   "sid": "0a9kJu_KWopOzUuTnXt3-HOy"
+  }
+ }
+]

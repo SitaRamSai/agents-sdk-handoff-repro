@@ -1,0 +1,41 @@
+[
+  {
+    "variant": "A",
+    "scenario": "S2",
+    "run_id": "s2-a-67474a",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S2",
+    "run_id": "s2-b-84409f",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S2",
+    "run_id": "s2-c-f78859",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "check": "N1",
+    "variant": "A",
+    "status": 401,
+    "result": "pass"
+  },
+  {
+    "check": "N1",
+    "variant": "B",
+    "status": 401,
+    "result": "pass"
+  },
+  {
+    "check": "N1",
+    "variant": "C",
+    "status": 401,
+    "result": "pass"
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "variant": "A-meta",
+    "scenario": "S1",
+    "run_id": "s1-a-meta-647dcc",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S2",
+    "run_id": "s2-a-meta-d2b7b5",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S3",
+    "run_id": "s3-a-meta-4f03b6",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S4",
+    "run_id": "s4-a-meta-1542aa",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S1",
+    "run_id": "s1-a-meta-f19415",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S2",
+    "run_id": "s2-a-meta-1b740b",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S3",
+    "run_id": "s3-a-meta-351617",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S4",
+    "run_id": "s4-a-meta-61c2d2",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S1",
+    "run_id": "s1-a-meta-86d418",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S2",
+    "run_id": "s2-a-meta-469d99",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S3",
+    "run_id": "s3-a-meta-d9d697",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "S4",
+    "run_id": "s4-a-meta-31371f",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "A-meta",
+    "scenario": "N3",
+    "run_id": "n3-a-meta-1794349418",
+    "error": null,
+    "exchanges": 0,
+    "n3_run": true
+  },
+  {
+    "variant": "B",
+    "scenario": "S1",
+    "run_id": "s1-b-622492",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S2",
+    "run_id": "s2-b-816a98",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S3",
+    "run_id": "s3-b-463c7c",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S4",
+    "run_id": "s4-b-1a7896",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S1",
+    "run_id": "s1-b-28c5fc",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S2",
+    "run_id": "s2-b-e703ec",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S3",
+    "run_id": "s3-b-1ccc1f",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S4",
+    "run_id": "s4-b-0befd2",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S1",
+    "run_id": "s1-b-8d608b",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S2",
+    "run_id": "s2-b-ec7831",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S3",
+    "run_id": "s3-b-9f6de1",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "S4",
+    "run_id": "s4-b-36f5d2",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "B",
+    "scenario": "N3",
+    "run_id": "n3-b-1794349428",
+    "error": null,
+    "exchanges": 0,
+    "n3_run": true
+  },
+  {
+    "variant": "C",
+    "scenario": "S1",
+    "run_id": "s1-c-cd8f46",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S2",
+    "run_id": "s2-c-a85f17",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S3",
+    "run_id": "s3-c-b0a58d",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S4",
+    "run_id": "s4-c-99b457",
+    "error": "ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)",
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S1",
+    "run_id": "s1-c-d4c104",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S2",
+    "run_id": "s2-c-004cff",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S3",
+    "run_id": "s3-c-ef6416",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S4",
+    "run_id": "s4-c-2f00d0",
+    "error": "ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)",
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S1",
+    "run_id": "s1-c-6fb2bd",
+    "error": null,
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "S2",
+    "run_id": "s2-c-eb4c39",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S3",
+    "run_id": "s3-c-a61070",
+    "error": null,
+    "exchanges": 3
+  },
+  {
+    "variant": "C",
+    "scenario": "S4",
+    "run_id": "s4-c-c53a34",
+    "error": "ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)",
+    "exchanges": 0
+  },
+  {
+    "variant": "C",
+    "scenario": "N3",
+    "run_id": "n3-c-1794349437",
+    "error": "MCPError: Connection closed",
+    "exchanges": 1,
+    "n3_run": true
+  },
+  {
+    "check": "N2",
+    "variant": "A",
+    "result": "pass",
+    "why": "wrong audience"
+  },
+  {
+    "check": "N2",
+    "variant": "B",
+    "result": "pass",
+    "why": "wrong audience"
+  },
+  {
+    "check": "N2",
+    "variant": "C",
+    "result": "pass",
+    "why": "wrong audience"
+  },
+  {
+    "check": "N4",
+    "variant": "C",
+    "admin_granted": false
+  }
+]

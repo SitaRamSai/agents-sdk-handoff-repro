@@ -1,0 +1,27 @@
+{
+  "issuer": "http://localhost:8080/realms/lab",
+  "jwks_url": "http://localhost:8080/realms/lab/protocol/openid-connect/certs",
+  "alice": {
+    "sub": "<written by setup_realm.py>",
+    "username": "alice"
+  },
+  "clients": [
+    "agent-app",
+    "sub-agent",
+    "mcp-server",
+    "canary-api"
+  ],
+  "hops": [
+    "mcp-server",
+    "canary-api"
+  ],
+  "hop_audience": {
+    "mcp-server": "mcp-server",
+    "canary-api": "canary-api"
+  },
+  "granted_scopes": [
+    "files:read",
+    "files:write"
+  ],
+  "delegation_enabled": true
+}
