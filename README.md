@@ -58,3 +58,7 @@ python3 lab/teardowns/01-openai-agents-sdk/run_teardown.py --runs 3
 ## Rules
 
 No tokens, client secrets or passwords are ever written to the repo. The recorder stores claim values and a 12-character hash only, and run outputs go to `runs/`, which is git-ignored.
+
+## License
+
+[Apache License 2.0](LICENSE).
